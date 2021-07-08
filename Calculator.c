@@ -87,8 +87,6 @@ int main(int argc, char *argv[]){
 				  printf("The entry style is name/cardtype/manacost/colorless/white/green/red/black/blue/manaproduced/numberplayed\n");
 				  //To be completed
 			}
-		fclose(FP);
-		
 		}
 fclose(FP);
 return 0;
