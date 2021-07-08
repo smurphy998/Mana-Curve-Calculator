@@ -2,14 +2,13 @@
 #include<string.h>
 #include<math.h>
 #include<stdlib.h>
-#include<iostream>
 
-typedef Card{
+struct Card{
 	//The entry style is name/cardtype/manacost/colorless/white/green/red/black/blue/manaproduced/numberplayed\n
 	char 	name[30];
 	//Enter the name and cardtypes to ensure it works properly.
 	char 	cardtype[25];
-	int  	Manacost;
+	int  	ManaCost;
 	/*These five are getting the mana requirements
 	 *which will help with color idenity for commander,
 	 as well as doubles for discerning the supply of each mana
@@ -25,35 +24,35 @@ typedef Card{
 	char	cidentity[5];
 	//In commander everything aside from basic lands should be above one
 	//else the maximum number is 4
-}
-Card Deck[100];
-const char split="/";
-void identitycheck(struct Card c,int cards)
-void cardcreate(char line, int cards)
-void printdetails(struct card c);
-void tooManyWarning(struct card c);
-void coloridentitycheck(char ci, struct card c);
+};
+FILE *FP;
+struct Card Deck[100];
+void identitycheck(struct Card c,int cards);
+void cardcreate(char line, int cards);
+void printdetails(struct Card c);
+void tooManyWarning(struct Card c);
+void coloridentitycheck(char *ci, struct Card c);
 int main(int argc, char *argv[]){
-	char Type[9];
+	char *Type;
 	//Different formats have different deck rules
 	if (argv[1]=="Commander"){
-		Type="Commander"
-	}elsif (argv[1]=="Modern"){
+		Type="Commander";
+	}else if(argv[1]=="Modern"){
 		Type="Modern";
 	}else{
 		printf("Give Deck Type");
 	}
 	int cards=0;
-	char coloridentity[5];
-	char destination[20]
+	char *coloridentity;
+	char destination;
 	printf("Please create a destination for the information, and be sure to include the '.txt'");
-	scanf("%s",destination);
+	scanf("%s",&destination);
 	if (argc==3){
-		FILE *FP=fopen(destination,"w");
+		FP=fopen(&destination,"w");
 		FILE *fp= fopen(argv[2],"r");
-		if(fp !=NUll){
-			char line[300]
-			while(fgets(line,sizeof(line),fp)!=NULL){
+		if(fp !=NULL){
+			char line;
+			while(fgets(&line,sizeof(line),fp)!=NULL){
 			cardcreate(line,cards);
 			if(strcmp(Type,"Commander")){
 				if(cards==0){
@@ -64,55 +63,56 @@ int main(int argc, char *argv[]){
 					coloridentitycheck(coloridentity,Deck[cards]);			
 				}
 				//Checks the number of copies against the legal limit
-				if(Deck[cards].NumberPlayed>1&&(strcmp(Deck[cards].name,"Plains")||strcmp(Deck[cards].name,"Forest")||strcmp(Deck[cards].name,"Mountain") ||strcmp(Deck[cards].name,"Swamp")||strcmp(Deck[cards].name,"Island")){
+				if(Deck[cards].NumberPlayed>1&&(strcmp(Deck[cards].name,"Plains")||strcmp(Deck[cards].name,"Forest")||strcmp(Deck[cards].name,"Mountain") ||strcmp(Deck[cards].name,"Swamp")||strcmp(Deck[cards].name,"Island"))){
 					tooManyWarning(Deck[cards]);
 				}
 			}
-			if(strcmp(Type,"Modern"){
-				if(Deck[cards].NumberPlayed>4&&(strcmp(Deck[cards].name,"Plains")||strcmp(Deck[cards].name,"Forest")||strcmp(Deck[cards].name,"Mountain") ||strcmp(Deck[cards].name,"Swamp")||strcmp(Deck[cards].name,"Island")){
+			if(strcmp(Type,"Modern")){
+				if(Deck[cards].NumberPlayed>4&&(strcmp(Deck[cards].name,"Plains")||strcmp(Deck[cards].name,"Forest")||strcmp(Deck[cards].name,"Mountain") ||strcmp(Deck[cards].name,"Swamp")||strcmp(Deck[cards].name,"Island"))){
 					tooManyWarning(Deck[cards]);
-				}
+					}
 				   }
 			cards++;
 			}
-			fclose(fp)
+			fclose(fp);
 		}
 		else{
-			fclose(fp)
-			Printf("give a deck list txtfile or enter deeclist manually\n Type 'Confirm' and return if you wish to enter Manually.\n");
+			fclose(fp);
+			printf("give a deck list txtfile or enter deeclist manually\n Type 'Confirm' and return if you wish to enter Manually.\n");
 			char concheck[100];
 			scanf("%s",concheck);
 			//Manual input section
-			if(strcmp(concheck,"Confirm"){
+			if(strcmp(concheck,"Confirm")){
 				  printf("The entry style is name/cardtype/manacost/colorless/white/green/red/black/blue/manaproduced/numberplayed\n");
 				  //To be completed
 			}
 		}
+	}
 fclose(FP);
 return 0;
 }
 void cardcreate(char line, int cards){
 	//This function tokenizes the line and converts it into a card object within the array
-	Deck[cards].name=strtok(line,split);
-	Deck[cards].cardtype=strtok(NULL,split);
-	Deck[cards].Manacost=atoi.(strtok(NULL,split);
-	Deck[cards].Colorless=atoi.(strtok(NULL,split);
-	Deck[cards].WhiteMana=atoi.(strtok(NULL,split);
-	Deck[cards].GreenMana=atoi.(strtok(NULL,split);
-	Deck[cards].RedMana=atoi.(strtok(NULL,split);
-	Deck[cards].BlackMana=atoi.(strtok(NULL,split);
-	Deck[cards].BlueMana=atoi.(strtok(NULL,split);
-	Deck[cards].ManaProduced=atoi.(strtok(NULL,split);
-	Deck[cards].NumberPlayed=atoi.(strtok(NULL,split);
+	const char split[2]="/";
+	strcpy(Deck[cards].name,strtok(&line,split));
+	strcpy(Deck[cards].cardtype,strtok(NULL,split));
+	Deck[cards].ManaCost=atoi(strtok(NULL,split));
+	Deck[cards].ColorlessMana=atoi(strtok(NULL,split));
+	Deck[cards].WhiteMana=atoi(strtok(NULL,split));
+	Deck[cards].GreenMana=atoi(strtok(NULL,split));
+	Deck[cards].RedMana=atoi(strtok(NULL,split));
+	Deck[cards].BlackMana=atoi(strtok(NULL,split));
+	Deck[cards].BlueMana=atoi(strtok(NULL,split));
+	Deck[cards].ManaProduced=atoi(strtok(NULL,split));
+	Deck[cards].NumberPlayed=atoi(strtok(NULL,split));
 	identitycheck(Deck[cards],cards);
 	printdetails(Deck[cards]);
 }
 void printdetails(struct Card c){
-	if(strstr(c.cardtype,"Land")!=true){
-		printf("The card is %s of %s cardtype which costs %i mana\nBroken down into %i colorless, i% white, %i green,%i red, %i black, %i blue mana, and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaCost,c.ColorlessMana,c.WhiteMana,c.GreenMana,c.RedMana,c.BlackMana,c.BlueMana,c.ManaProduced,c.NumberPlayed);
-		fprintf(FP,"The card is %s of %s cardtype which costs %i mana\nBroken down into %i colorless, i% white, %i green,%i red, %i black, %i blue mana, and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaCost,c.ColorlessMana,c.WhiteMana,c.GreenMana,c.RedMana,c.BlackMana,c.BlueMana,c.ManaProduced,c.NumberPlayed);
-	}
-	if(strstr(c.cardtype,"Land")==true){
+	if(strstr(c.cardtype,"Land")==NULL){
+		printf("The card is %s of %s cardtype which costs %i mana\nBroken down into %i colorless, %i white, %i green,%i red, %i black, %i blue mana, and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaCost,c.ColorlessMana,c.WhiteMana,c.GreenMana,c.RedMana,c.BlackMana,c.BlueMana,c.ManaProduced,c.NumberPlayed);
+		fprintf(FP,"The card is %s of %s cardtype which costs %i mana\nBroken down into %i colorless, %i white, %i green,%i red, %i black, %i blue mana, and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaCost,c.ColorlessMana,c.WhiteMana,c.GreenMana,c.RedMana,c.BlackMana,c.BlueMana,c.ManaProduced,c.NumberPlayed);
+	}else{
 		printf("The card is %s of %s cardtype and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaProduced,c.NumberPlayed);
 		fprintf(FP,"The card is %s of %s cardtype and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaProduced,c.NumberPlayed);
 	}
@@ -123,41 +123,110 @@ void tooManyWarning(struct Card c){
 	printf("%s has too many copies in the deck\n",c.name);
 	fprintf(FP,"%s has too many copies in the deck\n",c.name);
 	}
-void coloridentitycheck(char ci,struct Card c){
-	if(strcmp(ci,c.cidentity){
+void coloridentitycheck(char *ci,struct Card c){
+	if(!(ci[0]=='-'&&c.cidentity[0]!='W')){
+	if(!(ci[1]=='-'&&c.cidentity[1]!='G')){
+	if(!(ci[2]=='-'&&c.cidentity[2]!='R')){
+	if(!(ci[3]=='-'&&c.cidentity[3]!='B')){
+	if(!(ci[4]=='-'&&c.cidentity[4]!='B')){
 		fprintf(FP,"%s is inside of color identity\n", c.name);
 		printf("%s is inside of the color identity.\n", c.name);
-		}else{
-		fprintf(FP,"%s is out of color identity\n", c.name);
-		printf("%s is out of color identity\n", c.name);
+		return;
 		}
 	}
-void identitycheck(struct Card c,cards){
-	char result[5];
+	}
+	}
+	}
+		fprintf(FP,"%s is out of color identity\n", c.name);
+		printf("%s is out of color identity\n", c.name);
+	}
+void identitycheck(struct Card c,int cards){
+	char result[5]={0,0,0,0,0};
 	if(c.WhiteMana>0){
-		result[0]="W";
+		result[0]='W';
 	}else{
-		result[0]="-";
+		result[0]='-';
 	}
 	if(c.GreenMana>0){
-		result[1]="G";
+		result[1]='G';
 	}else{
-		result[1]="-";
+		result[1]='-';
 	}
 	if(c.RedMana>0){
-		result[2]="R";
+		result[2]='R';
 	}else{
-		result[2]="-";
+		result[2]='-';
 	}
 	if(c.BlackMana>0){
-		result[3]="B";
+		result[3]='B';
 	}else{
-		result[3]="-";
+		result[3]='-';
 	}
-	if(c.BlueMana>){
-		result[4]="B";
+	if(c.BlueMana>0){
+		result[4]='B';
 	}else{
-		result[4]="-";
+		result[4]='-';
 	}
-	Deck[cards].cidentity=result;
+	strcpy(Deck[cards].cidentity,result);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
