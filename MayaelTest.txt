@@ -1,0 +1,192 @@
+The card is Mayael The Anima of Legendary Creature-Elf Shaman cardtype which costs 3 mana
+Broken down into 0 colorless, 1 white, 1 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Elvish Piper of Creature-Elf Shaman cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Vizier of the Menagerie of Creature-Naga Cleric cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Fierce Empath of Creature-Elf Shaman cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Guilded Lotus of Artifact cardtype which costs 5 mana
+Broken down into 5 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 3 mana
+The number played within the deck is 1
+The card is Lightning Greaves of Artifact-Equipment cardtype which costs 2 mana
+Broken down into 2 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Mana Reflection of Enchantment cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Azusa, Lost but Seeking of Legendary Creature-Human Monk cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Gisela,Blade of Goldnight of Legendary Creature-Angel cardtype which costs 7 mana
+Broken down into 4 colorless, 2 white, 0 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Chromatic Lanturn of Artifact cardtype which costs 3 mana
+Broken down into 3 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 1 mana
+The number played within the deck is 1
+The card is Zacama, Primal Calamity of Legendary Creature-Elder Dinosaur cardtype which costs 6 mana
+Broken down into 1 colorless, 1 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Novablast Wurm of Creature-Wurm cardtype which costs 7 mana
+Broken down into 2 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Greater Good of Enchantment cardtype which costs 4 mana
+Broken down into 2 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Platinum Emporion of Artifact Creature-Golem cardtype which costs 8 mana
+Broken down into 8 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Spellbreaker Behemoth of Creature-Beast cardtype which costs 4 mana
+Broken down into 1 colorless, 0 white, 2 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Vivien Champion of the Wilds of Legendary Planeswalker-Vivien cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Search for tomorrow of Sorcery cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Paleoloth of Creature-Beast cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Blazing Archon of Creature-Archon cardtype which costs 9 mana
+Broken down into 6 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Heroic Intervention of Instant cardtype which costs 2 mana
+Broken down into 1 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is End-Raze Forerunners of Creature-Boar cardtype which costs 8 mana
+Broken down into 5 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Lurking Predators of Enchantment cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Exploration of Enchantment cardtype which costs 1 mana
+Broken down into 0 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Ilharg, the Raze-Boar of Legendary Creature-Boar God cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Eternal  Witness of Creature- Human Shaman cardtype which costs 3 mana
+Broken down into 1 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Archetype of Endurance of Enchantment Creature-Boar cardtype which costs 8 mana
+Broken down into 6 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Ulamog the Ceaseless Hunger of Legendary Creature-Eldrazi cardtype which costs 10 mana
+Broken down into 10 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Sigarda, Host of Herons of Legendary Creature-Angel cardtype which costs 5 mana
+Broken down into 2 colorless, 2 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Explosive Vegetation of Sorcery cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Void Winnower of Creature-Eldrazi cardtype which costs 9 mana
+Broken down into 9 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Skyshroud Claim of Sorcery cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Marshal's Anthem of Enchantment cardtype which costs 4 mana
+Broken down into 2 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Green Sun's Zenith of Sorcery cardtype which costs 1 mana
+Broken down into 0 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Spearbreaker Behemoth of Creature cardtype which costs 7 mana
+Broken down into 5 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Sol Ring of Artifact cardtype which costs 1 mana
+Broken down into 1 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 2 mana
+The number played within the deck is 1
+The card is Cultivate of Sorcery cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Baneslayer Angel of Creature-Angel cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Elesh-Norn, Grand Cenobite of Creature-Praetor cardtype which costs 7 mana
+Broken down into 5 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Tooth and Nail of Sorcery cardtype which costs 7 mana
+Broken down into 5 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Kozilek, Butcher of Truth of Legendary Creature-Eldrazi cardtype which costs 10 mana
+Broken down into 10 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Craterhoof Behemoth of Creature-Beast cardtype which costs 8 mana
+Broken down into 5 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Kalemne's Captain of Creature-Giant Soldier cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Admonition Angel of Creature-Angel cardtype which costs 6 mana
+Broken down into 3 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Oracle of Mul Daya of Creature-Elf Shaman cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Boros Charm of Instant cardtype which costs 2 mana
+Broken down into 0 colorless, 1 white, 0 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Darksteel Colossus of Artifact Creature-Golem cardtype which costs 11 mana
+Broken down into 11 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Mirari's Wake of Enchantment cardtype which costs 5 mana
+Broken down into 3 colorless, 1 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Rootborn Defense of Instant cardtype which costs 3 mana
+Broken down into 2 colorless, 1 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Xenagos, God of Revels of Legendary Enchantment Creature-God cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 1 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Vigor of Creature-Elemental Incarnation cardtype which costs 6 mana
+Broken down into 3 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Cord of Calling of Instant cardtype which costs 3 mana
+Broken down into 0 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is True Conviction of Enchantment cardtype which costs 6 mana
+Broken down into 3 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Ascetism of Enchantment cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Ulamog the Infinite Gyre of Legendary Creature-Eldrazi cardtype which costs 11 mana
+Broken down into 11 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Seedborn Muse of Creature-Spirit cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Titanic Ultimatum of Sorcery cardtype which costs 7 mana
+Broken down into 0 colorless, 2 white, 3 green,2 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Purify of Sorcery cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Beastmaster Ascension of Enchantment cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Godsire of Creature-Beast cardtype which costs 8 mana
+Broken down into 4 colorless, 1 white, 2 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Krosan Grip of Instant cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Avacyn, Angel of Hope of Legendary Creature cardtype which costs 8 mana
+Broken down into 5 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Blightsteel Colossus of Artifact Creature-Golem cardtype which costs 12 mana
+Broken down into 12 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Finale of Devastation of Sorcery cardtype which costs 2 mana
+Broken down into 0 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+The card is Regal Behemoth of Creature-Beast cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
