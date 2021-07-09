@@ -148,14 +148,14 @@ void printdetails(Card c){
 		fprintf(FP,"The card is %s of %s cardtype which costs %i mana\nBroken down into %i colorless, %i white, %i green,%i red, %i black, %i blue mana, and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaCost,c.ColorlessMana,c.WhiteMana,c.GreenMana,c.RedMana,c.BlackMana,c.BlueMana,c.ManaProduced,c.NumberPlayed);
 	}else{
 		printf("The card is %s of %s cardtype and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaProduced,c.NumberPlayed);
-	//	fprintf(FP,"The card is %s of %s cardtype and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaProduced,c.NumberPlayed);
+		fprintf(FP,"The card is %s of %s cardtype and produces %i mana\nThe number played within the deck is %i\n",c.name,c.cardtype,c.ManaProduced,c.NumberPlayed);
 	}
 }
 			 
 void tooManyWarning(Card c){
 	//This is effectively working as a flag
 	printf("%s has too many copies in the deck\n",c.name);
-//	fprintf(FP,"%s has too many copies in the deck\n",c.name);
+	fprintf(FP,"%s has too many copies in the deck\n",c.name);
 }
 void coloridentitycheck(char *ci,Card c){
 	if(!(ci[0]=='-'&&c.cidentity[0]!='W')){
@@ -163,7 +163,7 @@ void coloridentitycheck(char *ci,Card c){
 	if(!(ci[2]=='-'&&c.cidentity[2]!='R')){
 	if(!(ci[3]=='-'&&c.cidentity[3]!='B')){
 	if(!(ci[4]=='-'&&c.cidentity[4]!='B')){
-//		fprintf(FP,"%s is inside of color identity\n", c.name);
+		fprintf(FP,"%s is inside of color identity\n", c.name);
 		printf("%s is inside of the color identity.\n", c.name);
 		return;
 		}
@@ -171,7 +171,7 @@ void coloridentitycheck(char *ci,Card c){
 	}
 	}
 	}
-//		fprintf(FP,"%s is out of color identity\n", c.name);
+		fprintf(FP,"%s is out of color identity\n", c.name);
 		printf("%s is out of color identity\n", c.name);
 	}
 void identitycheck(Card c,int cards){
