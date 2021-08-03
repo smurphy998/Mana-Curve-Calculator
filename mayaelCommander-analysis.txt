@@ -1,0 +1,26 @@
+The number of creatures is: 36
+The number of enchantments is 11
+The number of Artifacts is: 7
+The number of lands is 36
+ The number of instants is: 5
+The number of Sorcereries is: 9
+The Number of Planewalkers is: 1There are 0 0 drops within the deck
+There are 3 1 drops within the deck
+There are 4 2 drops within the deck
+There are 12 3 drops within the deck
+There are 8 4 drops within the deck
+There are 10 5 drops within the deck
+There are 8 6 drops within the deck
+There are 6 7 drops within the deck
+There are 6 8 drops within the deck
+There are 2 9 drops within the deck
+There are 2 10 drops within the deck
+There are 2 11 drops within the deck
+There are 1 12 drops within the deck
+There are 0 13 drops within the deck
+There are 0 14 drops within the deck
+There are 0 15 drops within the deck
+There are 0 16 drops within the deck
+There is a mixture of 3 ManaDorks and ManaRocks
+There is 36 total ManaProducers
+The average cost of cards within the Deck is 5

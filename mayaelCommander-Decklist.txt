@@ -1,0 +1,338 @@
+The card is Mayael The Anima of Legendary Creature-Elf Shaman cardtype which costs 3 mana
+Broken down into 0 colorless, 1 white, 1 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Mayael The Anima is the CommanderThe card is Plains of Land-Plains cardtype and produces 1 mana
+The number played within the deck is 4
+Plains is inside of color identity
+The card is Forest of Land-Forest cardtype and produces 1 mana
+The number played within the deck is 3
+Forest is inside of color identity
+The card is Mountain of Land-Mountain cardtype and produces 1 mana
+The number played within the deck is 5
+Mountain is inside of color identity
+The card is Elvish Piper of Creature-Elf Shaman cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Elvish Piper is inside of color identity
+The card is Vizier of the Menagerie of Creature-Naga Cleric cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Vizier of the Menagerie is inside of color identity
+The card is Fierce Empath of Creature-Elf Shaman cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Fierce Empath is inside of color identity
+The card is Guilded Lotus of Artifact cardtype which costs 5 mana
+Broken down into 5 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 3 mana
+The number played within the deck is 1
+Guilded Lotus is inside of color identity
+The card is Lightning Greaves of Artifact-Equipment cardtype which costs 2 mana
+Broken down into 2 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Lightning Greaves is inside of color identity
+The card is Mana Reflection of Enchantment cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Mana Reflection is inside of color identity
+The card is Azusa, Lost but Seeking of Legendary Creature-Human Monk cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Azusa, Lost but Seeking is inside of color identity
+The card is Gisela,Blade of Goldnight of Legendary Creature-Angel cardtype which costs 7 mana
+Broken down into 4 colorless, 2 white, 0 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Gisela,Blade of Goldnight is inside of color identity
+The card is Chromatic Lanturn of Artifact cardtype which costs 3 mana
+Broken down into 3 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 1 mana
+The number played within the deck is 1
+Chromatic Lanturn is inside of color identity
+The card is Zacama, Primal Calamity of Legendary Creature-Elder Dinosaur cardtype which costs 6 mana
+Broken down into 1 colorless, 1 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Zacama, Primal Calamity is inside of color identity
+The card is Novablast Wurm of Creature-Wurm cardtype which costs 7 mana
+Broken down into 2 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Novablast Wurm is inside of color identity
+The card is Greater Good of Enchantment cardtype which costs 4 mana
+Broken down into 2 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Greater Good is inside of color identity
+The card is Platinum Emporion of Artifact Creature-Golem cardtype which costs 8 mana
+Broken down into 8 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Platinum Emporion is inside of color identity
+The card is Spellbreaker Behemoth of Creature-Beast cardtype which costs 4 mana
+Broken down into 1 colorless, 0 white, 2 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Spellbreaker Behemoth is inside of color identity
+The card is Cinder Glade of Land-Mountain Forest cardtype and produces 1 mana
+The number played within the deck is 1
+Cinder Glade is inside of color identity
+The card is Clifftop Retreat of Land-Check cardtype and produces 1 mana
+The number played within the deck is 1
+Clifftop Retreat is inside of color identity
+The card is Vivien Champion of the Wilds of Legendary Planeswalker-Vivien cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Vivien Champion of the Wilds is inside of color identity
+The card is Sacred Foundry of Land-Mountain Plains cardtype and produces 1 mana
+The number played within the deck is 1
+Sacred Foundry is inside of color identity
+The card is Search for tomorrow of Sorcery cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Search for tomorrow is inside of color identity
+The card is Selesnya Sanctuary of Land-Bounce cardtype and produces 2 mana
+The number played within the deck is 1
+Selesnya Sanctuary is inside of color identity
+The card is Razorverge Thicket of Land-Fast cardtype and produces 1 mana
+The number played within the deck is 1
+Razorverge Thicket is inside of color identity
+The card is Paleoloth of Creature-Beast cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Paleoloth is inside of color identity
+The card is Temple Garden of Land-Forest Plains-Shock cardtype and produces 1 mana
+The number played within the deck is 1
+Temple Garden is inside of color identity
+The card is Blazing Archon of Creature-Archon cardtype which costs 9 mana
+Broken down into 6 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Blazing Archon is inside of color identity
+The card is Windswept Heath of Land-Fetch cardtype and produces 0 mana
+The number played within the deck is 1
+Windswept Heath is inside of color identity
+The card is Heroic Intervention of Instant cardtype which costs 2 mana
+Broken down into 1 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Heroic Intervention is inside of color identity
+The card is Wooded Bastion of Land-Filter cardtype and produces 0 mana
+The number played within the deck is 1
+Wooded Bastion is inside of color identity
+The card is End-Raze Forerunners of Creature-Boar cardtype which costs 8 mana
+Broken down into 5 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+End-Raze Forerunners is inside of color identity
+The card is Lurking Predators of Enchantment cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Lurking Predators is inside of color identity
+The card is Exploration of Enchantment cardtype which costs 1 mana
+Broken down into 0 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Exploration is inside of color identity
+The card is Ilharg, the Raze-Boar of Legendary Creature-Boar God cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Ilharg, the Raze-Boar is inside of color identity
+The card is Eternal  Witness of Creature- Human Shaman cardtype which costs 3 mana
+Broken down into 1 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Eternal  Witness is inside of color identity
+The card is Reliquary Tower of Land cardtype and produces 1 mana
+The number played within the deck is 1
+Reliquary Tower is inside of color identity
+The card is Archetype of Endurance of Enchantment Creature-Boar cardtype which costs 8 mana
+Broken down into 6 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Archetype of Endurance is inside of color identity
+The card is Ulamog the Ceaseless Hunger of Legendary Creature-Eldrazi cardtype which costs 10 mana
+Broken down into 10 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Ulamog the Ceaseless Hunger is inside of color identity
+The card is Sigarda, Host of Herons of Legendary Creature-Angel cardtype which costs 5 mana
+Broken down into 2 colorless, 2 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Sigarda, Host of Herons is inside of color identity
+The card is Explosive Vegetation of Sorcery cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Explosive Vegetation is inside of color identity
+The card is Void Winnower of Creature-Eldrazi cardtype which costs 9 mana
+Broken down into 9 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Void Winnower is inside of color identity
+The card is Skyshroud Claim of Sorcery cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Skyshroud Claim is inside of color identity
+The card is Marshal's Anthem of Enchantment cardtype which costs 4 mana
+Broken down into 2 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Marshal's Anthem is inside of color identity
+The card is Beautiful Promenade of Land-Bond cardtype and produces 1 mana
+The number played within the deck is 1
+Beautiful Promenade is inside of color identity
+The card is Rugged Prairie of Land-Filter cardtype and produces 1 mana
+The number played within the deck is 1
+Rugged Prairie is inside of color identity
+The card is Green Sun's Zenith of Sorcery cardtype which costs 1 mana
+Broken down into 0 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Green Sun's Zenith is inside of color identity
+The card is Spearbreaker Behemoth of Creature cardtype which costs 7 mana
+Broken down into 5 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Spearbreaker Behemoth is inside of color identity
+The card is Sol Ring of Artifact cardtype which costs 1 mana
+Broken down into 1 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 2 mana
+The number played within the deck is 1
+Sol Ring is inside of color identity
+The card is Cultivate of Sorcery cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Cultivate is inside of color identity
+The card is Copperline Gorge of Land-Fast cardtype and produces 1 mana
+The number played within the deck is 1
+Copperline Gorge is inside of color identity
+The card is Stomping Grounds of Land-Mountain Forest-Shock cardtype and produces 1 mana
+The number played within the deck is 1
+Stomping Grounds is inside of color identity
+The card is Baneslayer Angel of Creature-Angel cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Baneslayer Angel is inside of color identity
+The card is Elesh-Norn, Grand Cenobite of Creature-Praetor cardtype which costs 7 mana
+Broken down into 5 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Elesh-Norn, Grand Cenobite is inside of color identity
+The card is Tooth and Nail of Sorcery cardtype which costs 7 mana
+Broken down into 5 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Tooth and Nail is inside of color identity
+The card is Wooded Foothills of Land-Fetch cardtype and produces 0 mana
+The number played within the deck is 1
+Wooded Foothills is inside of color identity
+The card is Sunpetal Grove of Land-Check cardtype and produces 1 mana
+The number played within the deck is 1
+Sunpetal Grove is inside of color identity
+The card is Kozilek, Butcher of Truth of Legendary Creature-Eldrazi cardtype which costs 10 mana
+Broken down into 10 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Kozilek, Butcher of Truth is inside of color identity
+The card is Mosswort Bridge of Land-Hideaway cardtype and produces 1 mana
+The number played within the deck is 1
+Mosswort Bridge is inside of color identity
+The card is Inspiring Vantage of Land-Fast cardtype and produces 1 mana
+The number played within the deck is 1
+Inspiring Vantage is inside of color identity
+The card is Craterhoof Behemoth of Creature-Beast cardtype which costs 8 mana
+Broken down into 5 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Craterhoof Behemoth is inside of color identity
+The card is Kalemne's Captain of Creature-Giant Soldier cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Kalemne's Captain is inside of color identity
+The card is Admonition Angel of Creature-Angel cardtype which costs 6 mana
+Broken down into 3 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Admonition Angel is inside of color identity
+The card is Oracle of Mul Daya of Creature-Elf Shaman cardtype which costs 4 mana
+Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Oracle of Mul Daya is inside of color identity
+The card is Boros Charm of Instant cardtype which costs 2 mana
+Broken down into 0 colorless, 1 white, 0 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Boros Charm is inside of color identity
+The card is Darksteel Colossus of Artifact Creature-Golem cardtype which costs 11 mana
+Broken down into 11 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Darksteel Colossus is inside of color identity
+The card is Mirari's Wake of Enchantment cardtype which costs 5 mana
+Broken down into 3 colorless, 1 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Mirari's Wake is inside of color identity
+The card is Rootborn Defense of Instant cardtype which costs 3 mana
+Broken down into 2 colorless, 1 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Rootborn Defense is inside of color identity
+The card is Xenagos, God of Revels of Legendary Enchantment Creature-God cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 1 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Xenagos, God of Revels is inside of color identity
+The card is Rootbound Crag of Land-Check cardtype and produces 1 mana
+The number played within the deck is 1
+Rootbound Crag is inside of color identity
+The card is Vigor of Creature-Elemental Incarnation cardtype which costs 6 mana
+Broken down into 3 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Vigor is inside of color identity
+The card is Cord of Calling of Instant cardtype which costs 3 mana
+Broken down into 0 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Cord of Calling is inside of color identity
+The card is True Conviction of Enchantment cardtype which costs 6 mana
+Broken down into 3 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+True Conviction is inside of color identity
+The card is Boros Garrison of Land-Bounce cardtype and produces 2 mana
+The number played within the deck is 1
+Boros Garrison is inside of color identity
+The card is Ascetism of Enchantment cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Ascetism is inside of color identity
+The card is Ulamog the Infinite Gyre of Legendary Creature-Eldrazi cardtype which costs 11 mana
+Broken down into 11 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Ulamog the Infinite Gyre is inside of color identity
+The card is Seedborn Muse of Creature-Spirit cardtype which costs 5 mana
+Broken down into 3 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Seedborn Muse is inside of color identity
+The card is Titanic Ultimatum of Sorcery cardtype which costs 7 mana
+Broken down into 0 colorless, 2 white, 3 green,2 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Titanic Ultimatum is inside of color identity
+The card is Purify of Sorcery cardtype which costs 5 mana
+Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Purify is inside of color identity
+The card is Command Tower of Land cardtype and produces 1 mana
+The number played within the deck is 1
+Command Tower is inside of color identity
+The card is Gruul Turf of Land-Bounce cardtype and produces 2 mana
+The number played within the deck is 1
+Gruul Turf is inside of color identity
+The card is Canopy Vista of Land-Check cardtype and produces 1 mana
+The number played within the deck is 1
+Canopy Vista is inside of color identity
+The card is Beastmaster Ascension of Enchantment cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Beastmaster Ascension is inside of color identity
+The card is Godsire of Creature-Beast cardtype which costs 8 mana
+Broken down into 4 colorless, 1 white, 2 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Godsire is inside of color identity
+The card is Krosan Grip of Instant cardtype which costs 3 mana
+Broken down into 2 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Krosan Grip is inside of color identity
+The card is Avacyn, Angel of Hope of Legendary Creature cardtype which costs 8 mana
+Broken down into 5 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Avacyn, Angel of Hope is inside of color identity
+The card is Exotic Orchard of Land cardtype and produces 1 mana
+The number played within the deck is 1
+Exotic Orchard is inside of color identity
+The card is Jungle Shrine of Land-Lair cardtype and produces 1 mana
+The number played within the deck is 1
+Jungle Shrine is inside of color identity
+The card is Blightsteel Colossus of Artifact Creature-Golem cardtype which costs 12 mana
+Broken down into 12 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Blightsteel Colossus is inside of color identity
+The card is Finale of Devastation of Sorcery cardtype which costs 2 mana
+Broken down into 0 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Finale of Devastation is inside of color identity
+The card is Regal Behemoth of Creature-Beast cardtype which costs 6 mana
+Broken down into 4 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
+Regal Behemoth is inside of color identity
+The card is Plains of Land-Plains cardtype and produces 1 mana
+The number played within the deck is 4
