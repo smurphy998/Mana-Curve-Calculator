@@ -261,8 +261,8 @@ for(int i=0;i<cards;i++){
 	}
 	slotsused+=Deck[i].NumberPlayed;
 }
-printf("The number of creatures is: %i\nThe number of enchantments is: %i\nThe number of Artifacts is: %i\nThe number of lands is %i\nThe number of instants is: %i\nThe number of Sorcereries is: %i\nThe Number of Planewalkers is %i\n",creatures,enchantments,artifacts,lands,instants,sorcereries,planeswalkers);
-fprintf(Analyst,"The number of creatures is: %i\nThe number of enchantments is %i\nThe number of Artifacts is: %i\nThe number of lands is %i\n The number of instants is: %i\nThe number of Sorcereries is: %i\nThe Number of Planewalkers is: %i",creatures,enchantments,artifacts,lands,instants,sorcereries,planeswalkers);
+//printf("The number of creatures is: %i\nThe number of enchantments is: %i\nThe number of Artifacts is: %i\nThe number of lands is %i\nThe number of instants is: %i\nThe number of Sorcereries is: %i\nThe Number of Planewalkers is %i\n",creatures,enchantments,artifacts,lands,instants,sorcereries,planeswalkers);
+fprintf(Analyst,"The number of creatures is: %i\nThe number of enchantments is %i\nThe number of Artifacts is: %i\nThe number of lands is %i\nThe number of instants is: %i\nThe number of Sorcereries is: %i\nThe Number of Planewalkers is: %i\n",creatures,enchantments,artifacts,lands,instants,sorcereries,planeswalkers);
 Manacurve(slotsused,lands);
 fclose(Analyst);
 }
