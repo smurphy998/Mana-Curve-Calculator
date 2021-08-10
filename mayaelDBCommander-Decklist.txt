@@ -1,3 +1,6 @@
+The card is Mayael The Anima of Legendary Creature-Elf Shaman cardtype which costs 3 mana
+Broken down into 0 colorless, 1 white, 1 green,1 red, 0 black, 0 blue mana, and produces 0 mana
+The number played within the deck is 1
 The card is Baneslayer Angel of Creature-Angel cardtype which costs 5 mana
 Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
-The number played within the deck is 1
+The number played within the deck is 4

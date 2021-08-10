@@ -167,6 +167,7 @@ int main(int argc, char *argv[]){
 		strcat(line,"/");
 		sprintf(numkeep,"%d",numberplayed);	
 		strcat(line,numkeep);
+		cardcreate(line,cards);
 		cards++;
 		tooManyWarning(Deck[cards],argv[2]);
 		printf("please enter next card name\n");

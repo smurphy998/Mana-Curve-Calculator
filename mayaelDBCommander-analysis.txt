@@ -1,4 +1,4 @@
-The number of creatures is: 1
+The number of creatures is: 5
 The number of enchantments is 0
 The number of Artifacts is: 0
 The number of lands is 0
@@ -8,9 +8,9 @@ The Number of Planewalkers is: 0
 There are 0 0 drops within the deck
 There are 0 1 drops within the deck
 There are 0 2 drops within the deck
-There are 0 3 drops within the deck
+There are 1 3 drops within the deck
 There are 0 4 drops within the deck
-There are 1 5 drops within the deck
+There are 4 5 drops within the deck
 There are 0 6 drops within the deck
 There are 0 7 drops within the deck
 There are 0 8 drops within the deck
@@ -24,4 +24,4 @@ There are 0 15 drops within the deck
 There are 0 16 drops within the deck
 There is a mixture of 0 ManaDorks and ManaRocks
 There is 0 total ManaProducers
-The average cost of cards within the Deck is 5
+The average cost of cards within the Deck is 4
