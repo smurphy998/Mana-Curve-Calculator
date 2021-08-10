@@ -41,10 +41,10 @@ Sigarda, Host of Herons/Legendary Creature-Angel/5/2/2/1/0/0/0/0/1/
 Explosive Vegetation/Sorcery/4/3/0/1/0/0/0/0/1/
 Void Winnower/Creature-Eldrazi/9/9/0/0/0/0/0/0/1/
 Skyshroud Claim/Sorcery/4/3/0/1/0/0/0/0/1/
-Marshal's Anthem/Enchantment/4/2/2/0/0/0/0/0/1/
+Marshal`s Anthem/Enchantment/4/2/2/0/0/0/0/0/1/
 Beautiful Promenade/Land-Bond/0/0/0/0/0/0/0/1/1/
 Rugged Prairie/Land-Filter/0/0/0/0/0/0/0/1/1/
-Green Sun's Zenith/Sorcery/1/0/0/1/0/0/0/0/1/
+Green Sun`s Zenith/Sorcery/1/0/0/1/0/0/0/0/1/
 Spearbreaker Behemoth/Creature/7/5/0/2/0/0/0/0/1/
 Sol Ring/Artifact/1/1/0/0/0/0/0/2/1/
 Cultivate/Sorcery/3/2/0/1/0/0/0/0/1/
@@ -59,12 +59,12 @@ Kozilek, Butcher of Truth/Legendary Creature-Eldrazi/10/10/0/0/0/0/0/0/1/
 Mosswort Bridge/Land-Hideaway/0/0/0/0/0/0/0/1/1/
 Inspiring Vantage/Land-Fast/0/0/0/0/0/0/0/1/1/
 Craterhoof Behemoth/Creature-Beast/8/5/0/3/0/0/0/0/1/
-Kalemne's Captain/Creature-Giant Soldier/5/3/2/0/0/0/0/0/1/
+Kalemne`s Captain/Creature-Giant Soldier/5/3/2/0/0/0/0/0/1/
 Admonition Angel/Creature-Angel/6/3/3/0/0/0/0/0/1/
 Oracle of Mul Daya/Creature-Elf Shaman/4/3/0/1/0/0/0/0/1/
 Boros Charm/Instant/2/0/1/0/1/0/0/0/1/
 Darksteel Colossus/Artifact Creature-Golem/11/11/0/0/0/0/0/0/1/
-Mirari's Wake/Enchantment/5/3/1/1/0/0/0/0/1/
+Mirari`s Wake/Enchantment/5/3/1/1/0/0/0/0/1/
 Rootborn Defense/Instant/3/2/1/0/0/0/0/0/1/
 Xenagos, God of Revels/Legendary Enchantment Creature-God/5/3/0/1/1/0/0/0/1/
 Rootbound Crag/Land-Check/0/0/0/0/0/0/0/1/1/

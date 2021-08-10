@@ -36,12 +36,10 @@
 
 FILE *FP;
 FILE *Analyst;
-void emptyscanner();
 Card Deck[100];
 char destination[300];
 void Manacurve(int cards,int lands);
 void analysis(int cards);
-
 void identitycheck(Card c,int cards);
 void cardcreate(char *line, int cards);
 void printdetails(Card c);
@@ -50,7 +48,7 @@ void coloridentitycheck(char *ci,Card c);
 int main(int argc, char *argv[]){
 	char *Type;
 	int check;
-	printf("The rules for this are rather simple you shall give your decklist and it will be taken into the system and analyzed\nThere are different ways of doing this, one is providing a textfile with all of the information about the deck and cards\nNext is using the database where you can put together a deck list and get the analysis on the decklist\nThe first two methods are primarily for admins to be able to debug the system, meanwhile the primary method\nWill be a file set up with the names to read from the database\n");
+	printf("The rules for this are rather simple you shall give your decklist and it will be taken into the system and analyzed\nThere are different ways of doing this, one is providing a textfile with all of the information about the deck and cards\n	Next is using the database where you can put together a deck list and get the analysis on the decklist\nThe first two methods are primarily for admins to be able to debug the system, meanwhile the primary method\nWill be a file set up with the names to read from the database\n");
 	check=listinitialize();
 	for(int t=0;t<100;t++){
 		Card Blank;
@@ -96,7 +94,6 @@ int main(int argc, char *argv[]){
 			//printf("%s",line);
 			//printf("%i\n",cards);
 			cardcreate(line,cards);
-			cardlister(Deck[cards]);
 			if(strcmp(argv[1],"Commander")==0){
 				//printf("Commander confirmed\n");
 				if(cards==0){
@@ -126,13 +123,17 @@ int main(int argc, char *argv[]){
 		char numkeep[3];
 		int cards;
 		cards=0;
-
+		while(cards>=0){
 		printf("please enter first card name\n");
-		fgets(line,sizeof(line),stdin);
+		fgets(line,50,stdin);
+		if(strcmp(line,"")==0){
+			printf("The loop is failing");
+			break;
+		}
 		//printf("%s\n",line);
 		strcpy(line,strtok(line,"\n"));
 		grabber(line);
-		//printf("%s\n",line);
+		printf("%s\n",line);
 		printf("Please enter number of copies\n");
 		scanf("%d",&numberplayed);
 		if(numberplayed==0){
@@ -142,34 +143,7 @@ int main(int argc, char *argv[]){
 		sprintf(numkeep,"%d",numberplayed);	
 		strcat(line,numkeep);
 		cardcreate(line,cards);
-		tooManyWarning(Deck[cards],argv[2]);
 		cards++;
-		printf("please enter next card name\n");
-		while(1){
-		emptyscanner();
-		//The line won't become blank if you don't enter anything so it needs to be a space to end it
-		scanf("%50[^\n]",line);
-		printf("%s\n",line);
-		if(strcmp(line," ")==0){
-			fclose(FP);
-			analysis(100);
-			exit(0);
-		}
-		//printf("%s\n",line);
-		strcpy(line,strtok(line,"\n"));
-		grabber(line);
-		//printf("%s\n",line);
-		printf("Please enter number of copies\n");
-		scanf("%d",&numberplayed);
-		if(numberplayed==0){
-			numberplayed=1;
-		}
-		strcat(line,"/");
-		sprintf(numkeep,"%d",numberplayed);	
-		strcat(line,numkeep);
-		cards++;
-		tooManyWarning(Deck[cards],argv[2]);
-		printf("please enter next card name\n");
 		}
 	}
 
@@ -195,10 +169,10 @@ void cardcreate(char *line, int cards){
 	Deck[cards].NumberPlayed=atoi(strtok(NULL,split));
 	identitycheck(Deck[cards],cards);
 	printdetails(Deck[cards]);
+	cardlister(Deck[cards]);
 	//printf("Returned from card creation\n");
 	return;
 }
-
 //The printing to terminal is no longer necessary as it properly prints, so the print to terminal is being removed for the time being to allow easier debugging within the 
 void printdetails(Card c){
 	if(!strstr(c.cardtype,"Land")){
@@ -353,8 +327,4 @@ fprintf(Analyst,"There is a mixture of %i ManaDorks and ManaRocks\nThere is %i t
 fprintf(Analyst,"The average cost of cards within the Deck is %i",(manatotal/(cards-lands)));
 //printf("%i\n", manatotal);
 //printf("%i\n",(cards-lands));
-}
-void emptyscanner(){
-	int c=getchar();
-	for(;c!='\n'&&c!=EOF;c=getchar()){}
 }

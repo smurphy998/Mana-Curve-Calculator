@@ -157,20 +157,20 @@ The card is Skyshroud Claim of Sorcery cardtype which costs 4 mana
 Broken down into 3 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
 Skyshroud Claim is inside of color identity
-The card is Marshal's Anthem of Enchantment cardtype which costs 4 mana
+The card is Marshal`s Anthem of Enchantment cardtype which costs 4 mana
 Broken down into 2 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
-Marshal's Anthem is inside of color identity
+Marshal`s Anthem is inside of color identity
 The card is Beautiful Promenade of Land-Bond cardtype and produces 1 mana
 The number played within the deck is 1
 Beautiful Promenade is inside of color identity
 The card is Rugged Prairie of Land-Filter cardtype and produces 1 mana
 The number played within the deck is 1
 Rugged Prairie is inside of color identity
-The card is Green Sun's Zenith of Sorcery cardtype which costs 1 mana
+The card is Green Sun`s Zenith of Sorcery cardtype which costs 1 mana
 Broken down into 0 colorless, 0 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
-Green Sun's Zenith is inside of color identity
+Green Sun`s Zenith is inside of color identity
 The card is Spearbreaker Behemoth of Creature cardtype which costs 7 mana
 Broken down into 5 colorless, 0 white, 2 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
@@ -221,10 +221,10 @@ The card is Craterhoof Behemoth of Creature-Beast cardtype which costs 8 mana
 Broken down into 5 colorless, 0 white, 3 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
 Craterhoof Behemoth is inside of color identity
-The card is Kalemne's Captain of Creature-Giant Soldier cardtype which costs 5 mana
+The card is Kalemne`s Captain of Creature-Giant Soldier cardtype which costs 5 mana
 Broken down into 3 colorless, 2 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
-Kalemne's Captain is inside of color identity
+Kalemne`s Captain is inside of color identity
 The card is Admonition Angel of Creature-Angel cardtype which costs 6 mana
 Broken down into 3 colorless, 3 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
@@ -241,10 +241,10 @@ The card is Darksteel Colossus of Artifact Creature-Golem cardtype which costs 1
 Broken down into 11 colorless, 0 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
 Darksteel Colossus is inside of color identity
-The card is Mirari's Wake of Enchantment cardtype which costs 5 mana
+The card is Mirari`s Wake of Enchantment cardtype which costs 5 mana
 Broken down into 3 colorless, 1 white, 1 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1
-Mirari's Wake is inside of color identity
+Mirari`s Wake is inside of color identity
 The card is Rootborn Defense of Instant cardtype which costs 3 mana
 Broken down into 2 colorless, 1 white, 0 green,0 red, 0 black, 0 blue mana, and produces 0 mana
 The number played within the deck is 1

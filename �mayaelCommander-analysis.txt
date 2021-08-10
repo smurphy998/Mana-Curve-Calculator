@@ -1,0 +1,7 @@
+The number of creatures is: 0
+The number of enchantments is 0
+The number of Artifacts is: 0
+The number of lands is 0
+ The number of instants is: 0
+The number of Sorcereries is: 0
+The Number of Planewalkers is: 0
